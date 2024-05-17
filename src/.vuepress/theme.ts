@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/favicon.ico",
 
-  repo: "HenTai-02",
+  repo: "Lovely-02",
 
   docsDir: "src",
 
@@ -38,8 +38,8 @@ export default hopeTheme({
       Wechat: "https://example.com",
       BiliBili: "https://space.bilibili.com/445647569",
       Email: "mailto:hentai02y@gmail.com",
-      Gitee: "https://gitee.com/HenTai-02",
-      GitHub: "https://github.com/HenTai-02",
+      Gitee: "https://gitee.com/Lovely-02",
+      GitHub: "https://github.com/Lovely-02",
       Gmail: "mailto:hentai02y@gmail.com",     
       Qzone: "https://user.qzone.qq.com/84227871",
     },

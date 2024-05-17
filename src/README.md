@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: /favicon.ico
-heroText: HenTai
+heroText: Lovely
 heroFullScreen: true
 bgImage: bj.jpg
 tagline: 唔姆这里是可爱的ZeroTwo
