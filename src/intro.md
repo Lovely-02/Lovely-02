@@ -3,6 +3,8 @@ icon: circle-info
 cover: /assets/images/cover3.jpg
 sticky: 1
 star: 1
+index: false
+editLink: false
 ---
 # ZeroTwo
 
