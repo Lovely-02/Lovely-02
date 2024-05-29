@@ -33,6 +33,9 @@ sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-
 
 ## 下载Python
 
+::: code-tabs
+
+@tab Python3.9
 ```bash
 #下载
 wget https://x.ylove.love/Python/Python-3.9.16.tgz
@@ -40,6 +43,8 @@ wget https://x.ylove.love/Python/Python-3.9.16.tgz
 tar -xf Python-3.9.16.tgz
 # 进入该目录
 cd Python-3.9.16/
+# 检查依赖与配置编译
+sudo ./configure --enable-optimizations --with-lto --enable-shared
 # 编译
 sudo make -j 2
 #安装
@@ -48,18 +53,65 @@ make altinstall
 sudo ln -s /usr/local/lib/libpython3.9.so.1.0 /usr/lib/
 ```
 
+@tab Python3.10
+```bash
+#下载
+wget https://x.ylove.love/Python/Python-3.10.14.tgz
+#解压
+tar -xf Python-3.10.14.tgz
+# 进入该目录
+cd Python-3.10.14/
+# 检查依赖与配置编译
+sudo ./configure --enable-optimizations --with-lto --enable-shared
+# 编译
+sudo make -j 2
+#安装
+make altinstall
+#链接
+sudo ln -s /usr/local/lib/libpython3.10.so.1.0 /usr/lib/
+```
+
+@tab Python3.11
+```bash
+#下载
+wget https://x.ylove.love/Python/Python-3.11.9.tgz
+#解压
+tar -xf Python-3.11.9.tgz
+# 进入该目录
+cd Python-3.11.9/
+# 检查依赖与配置编译
+sudo ./configure --enable-optimizations --with-lto --enable-shared
+# 编译
+sudo make -j 2
+#安装
+make altinstall
+#链接
+sudo ln -s /usr/local/lib/libpython3.11.so.1.0 /usr/lib/
+```
+
+:::
+
 ## 验证安装
 
 ::: code-tabs
 
-@tab Python
+@tab Python3.9
 
 ```bash
 python3.9 --version
+pip3.9 --version
 ```
 
-@tab pip
+@tab Python3.10
 
 ```bash
-pip3.9 --version
+python3.10 --version
+pip3.10 --version
+```
+
+@tab Python3.10
+
+```bash
+python3.11 --version
+pip3.11 --version
 ```

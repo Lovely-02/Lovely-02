@@ -20,4 +20,15 @@ tag:
 bash <(curl -L x.ylove.love/Python/Python3.9.sh)
 ```
 
+@tab Python3.10
+
+```bash
+bash <(curl -L x.ylove.love/Python/Python3.10.sh)
+```
+
+@tab Python3.11
+
+```bash
+bash <(curl -L x.ylove.love/Python/Python3.11.sh)
+```
 :::
