@@ -12,31 +12,31 @@ projects:
   - icon: /favicon.ico
     name: 02の图库
     desc: 个人自用图床
-    link: http://ylove.love:666/
+    link: http://x.521002.xyz:666/
 
   - icon: /favicon.ico
     name: 02的网盘
     desc: 个人自用网盘
-    link: http://ylove.love:12345/
+    link: http://x.521002.xyz:12345/
 
   - icon: /favicon.ico
     name: 02の签名
     desc: 个人自用签名
-    link: http://ylove.love:3333/
+    link: http://x.521002.xyz:3333/
 
   - icon: /favicon.ico
     name: 02の监控
     desc: 个人服务监控
-    link: https://state.ylove.love/
+    link: https://state.521002.xyz/
 
   - icon: /favicon.ico
     name: 02のApi
     desc: 随机获得一张美图
-    link: https://api.ylove.love/
+    link: https://api.521002.xyz/
 
   - icon: /favicon.ico
     name: 02の文档
     desc: 就是本站辣！！！
-    link: https://x.ylove.love/
+    link: https://521002.xyz/
 
 footer: ZeroTwo

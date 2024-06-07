@@ -88,7 +88,7 @@ systemctl status redis-server
 
 ```bash
 # 下载
-bash <(curl -L x.ylove.love/Qsign/Qsign.sh)
+bash <(curl -L www.521002.xyz/Qsign/Qsign.sh)
 # 进入目录
 cd Qsign
 # 守护进程
@@ -101,7 +101,7 @@ bash X
 
 ```bash
 # 下载
-https://x.ylove.love/Qsign/QsignWindows.zip
+https://www.521002.xyz/Qsign/QsignWindows.zip
 # 双击
 unidbg-fetch-qsign-gui-xiaoqian.exe
 ```

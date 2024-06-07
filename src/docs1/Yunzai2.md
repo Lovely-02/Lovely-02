@@ -17,19 +17,19 @@ tag:
 @tab Yunzai环境
 
 ```bash
-bash <(curl -L x.ylove.love/Yunzai/Yunzai.sh)
+bash <(curl -L www.521002.xyz/Yunzai/Yunzai.sh)
 ```
 
 @tab Miao-Yunzai
 
 ```bash
-bash <(curl -L x.ylove.love/Yunzai/Miao-Yunzai.sh)
+bash <(curl -L www.521002.xyz/Yunzai/Miao-Yunzai.sh)
 ```
 
 @tab TRSS-Yunzai
 
 ```bash
-bash <(curl -L x.ylove.love/Yunzai/TRSS-Yunzai.sh)
+bash <(curl -L www.521002.xyz/Yunzai/TRSS-Yunzai.sh)
 ```
 
 :::
@@ -43,7 +43,7 @@ bash <(curl -L x.ylove.love/Yunzai/TRSS-Yunzai.sh)
 
 ```bash
 # 下载
-bash <(curl -L x.ylove.love/Qsign/Qsign.sh)
+bash <(curl -L www.521002.xyz/Qsign/Qsign.sh)
 # 进入目录
 cd Qsign
 # 守护进程
@@ -56,7 +56,7 @@ bash X
 
 ```bash
 # 下载
-https://x.ylove.love/Qsign/QsignWindows.zip
+https://www.521002.xyz/Qsign/QsignWindows.zip
 # 双击
 unidbg-fetch-qsign-gui-xiaoqian.exe
 ```

@@ -38,7 +38,7 @@ sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-
 @tab Python3.9
 ```bash
 #下载
-wget https://x.ylove.love/Python/Python-3.9.16.tgz
+wget https://www.521002.xyz/Python/Python-3.9.16.tgz
 #解压
 tar -xf Python-3.9.16.tgz
 # 进入该目录
@@ -56,7 +56,7 @@ sudo ln -s /usr/local/lib/libpython3.9.so.1.0 /usr/lib/
 @tab Python3.10
 ```bash
 #下载
-wget https://x.ylove.love/Python/Python-3.10.14.tgz
+wget https://www.521002.xyz/Python/Python-3.10.14.tgz
 #解压
 tar -xf Python-3.10.14.tgz
 # 进入该目录
@@ -74,7 +74,7 @@ sudo ln -s /usr/local/lib/libpython3.10.so.1.0 /usr/lib/
 @tab Python3.11
 ```bash
 #下载
-wget https://x.ylove.love/Python/Python-3.11.9.tgz
+wget https://www.521002.xyz/Python/Python-3.11.9.tgz
 #解压
 tar -xf Python-3.11.9.tgz
 # 进入该目录

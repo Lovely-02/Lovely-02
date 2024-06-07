@@ -12,7 +12,7 @@ editLink: false
   title: QQ
   desc: 点击即可赞助捏
   logo: /favicon.ico
-  link: http://ylove.love:666/2G9k3p.jpg
+  link: http://x.521002.xyz:666/fg1969.jpg
   background: rgba(255,182,193, 0.1)
   ```
 
@@ -20,7 +20,7 @@ editLink: false
   title: 微信
   desc: 点击即可赞助捏
   logo: /favicon.ico
-  link: http://ylove.love:666/Wyrjn3.png
+  link: http://x.521002.xyz:666/duMxY7.png
   background: rgba(255,182,193, 0.1)
   ```
 
@@ -28,6 +28,6 @@ editLink: false
   title: 支付宝
   desc: 点击即可赞助捏
   logo: /favicon.ico
-  link: http://ylove.love:666/c6UMED.png
+  link: http://x.521002.xyz:666/j5rZID.png
   background: rgba(255,182,193, 0.1)
   ```
