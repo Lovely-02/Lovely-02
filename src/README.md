@@ -27,12 +27,12 @@ projects:
   - icon: /favicon.ico
     name: 02の监控
     desc: 个人服务监控
-    link: https://state.521002.xyz/
+    link: http://x.521002.xyz:8008/
 
   - icon: /favicon.ico
     name: 02のApi
     desc: 随机获得一张美图
-    link: https://api.521002.xyz/
+    link: http://x.521002.xyz:7007/
 
   - icon: /favicon.ico
     name: 02の文档
